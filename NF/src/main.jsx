@@ -5,9 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.min.js'
 
 import { BrowserRouter } from 'react-router-dom'
-import { Rutas } from "./assets/Routes/Rutas"
-import WOW from 'wow.js';
-import { useEffect } from 'react';
+import { Rutas } from "./Routes/Rutas"
 
 
 

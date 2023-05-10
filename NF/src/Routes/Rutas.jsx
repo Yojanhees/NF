@@ -1,19 +1,29 @@
 import { Route, Routes } from "react-router-dom"
+import { Shop } from "../Shop/Shop"
+import { Footer } from "../shared/Footer/Footer"
+import { Fans } from "../Fans/Fans"
+import { Musica } from "../Musica/Musica"
+import { History } from "../History/History"
+
 import { Menu } from "../Menu/Menu"
 
-import { Home } from "../Home/Home"
-import { Members } from "../Members/Members"
 export function Rutas() {
     return (
         <>
             <Menu />
             <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/miembros" element={<Members />} />
+                <Route path="/menu" element={<Menu/>} />
                 <Route path="/fans" element={<Fans/>} />
-                <Route path="/Shop" element={<Shop/>} /> 
-                <Route path="/musica" element={<Shop/>} /> 
+                <Route path="/shop" element={<Shop/>} /> 
+                <Route path="/musica" element={<Musica/>} />
+                <Route path="/history" element={<History/>} />
+                
+
+                
+
+                
             </Routes>
+            <Footer></Footer>
         </>
     )
 }

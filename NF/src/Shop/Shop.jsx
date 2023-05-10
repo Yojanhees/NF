@@ -84,19 +84,19 @@ export function Shop() {
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="https://es.rollingstone.com/wp-content/uploads/2023/03/Linkin-Park-comparte-otra-cancion-inedita-de-la-era-Meteora-Fighting-Myself.jpg" class="d-block w-100" alt=""/>
+        <img src="https://firebasestorage.googleapis.com/v0/b/react-baa97.appspot.com/o/mansion.jpg?alt=media&token=c271e21c-0a0e-4d83-8fc5-a1d6df4920bb" className="img-fluid d-block w-100" alt=""/>
         <div class="carousel-caption d-none d-md-block">
           
         </div>
       </div>
       <div class="carousel-item">
-        <img src="https://www.lavanguardia.com/files/og_thumbnail/uploads/2017/07/24/5fa3cfe161a1a.jpeg" class="d-block w-100" alt="..."/>
+        <img src="https://firebasestorage.googleapis.com/v0/b/react-baa97.appspot.com/o/NF%20face.jpg?alt=media&token=ab75e3ce-9c26-46f0-8782-c66f3a9f3211" className="img-fluid d-block w-100  " alt="..."/>
         <div class="carousel-caption d-none d-md-block">
          
         </div>
       </div>
       <div class="carousel-item">
-        <img src="https://lh3.googleusercontent.com/CF0c2_01LQNhsepMUhy7QO31wQrO2i5vOIl2VkY47CFVZnxnor8vnOWV9iG4x-oqom4cwuqJAVidP8rk=w2880-h1200-p-l90-rj" class="d-block w-100" alt="..."/>
+        <img src="https://firebasestorage.googleapis.com/v0/b/react-baa97.appspot.com/o/NF%20HD.png?alt=media&token=9ea09a43-ff2f-4256-b373-0af37cc9aa39" className="img-fluid d-block w-100" alt="..."/>
         <div class="carousel-caption d-none d-md-block">
          
         </div>
